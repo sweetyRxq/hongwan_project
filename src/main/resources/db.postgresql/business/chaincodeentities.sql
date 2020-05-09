@@ -1,0 +1,1 @@
+INSERT INTO cfg_chaincode_entity (name,alias) VALUES ('GAILUN','大盖伦');INSERT INTO cfg_chaincode_entity (name,alias) VALUES ('LKSS','洛克萨斯');INSERT INTO cfg_chaincode_entity (name,alias) VALUES ('AIOUNIYA','艾欧尼亚');

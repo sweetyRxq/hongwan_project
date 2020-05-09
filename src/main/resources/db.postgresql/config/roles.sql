@@ -1,0 +1,1 @@
+INSERT INTO auth_role (code, name, description) values ('TESTROLE001', '测试角色', '角色');INSERT INTO auth_role (code, name, description) values ('TESTROLE001', 'CES', 'E ');

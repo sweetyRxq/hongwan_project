@@ -1,0 +1,1 @@
+INSERT INTO auth_user (id,account,email,password,role_code,org_code,active, created_at, updated_at) values ('usr-e51b2b62-f220-4a00-bdd3-70f60c0a41db', 'admin', '123@qq.com','$2a$10$EIjWNwpkgwG/BFC/GajXc.NvC.gOsrvQDhE3zD9qEq.jsxIlhz4Aq','TESTROLE001','ORG_002',1,null,null);
